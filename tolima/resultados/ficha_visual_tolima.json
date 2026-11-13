@@ -1,0 +1,18 @@
+{
+  "caso": "Tolima",
+  "modelo": "OBAS V2",
+  "crs": "EPSG:4326",
+  "pixeles_validos": 16875,
+  "pixeles_nodata": 5000,
+  "pixeles_clase_1": 13380,
+  "pixeles_clase_0": 3495,
+  "superficie_valida_ha": 669.233354383298,
+  "superficie_clase_1_ha": 530.6279562824487,
+  "superficie_clase_0_ha": 138.60539810087658,
+  "porcentaje_clase_1": 79.28888888888889,
+  "densidad_biomasa_t_ha": null,
+  "biomasa_presente_estimada_t": null,
+  "estado_biomasa": "Pendiente de fuente de densidad",
+  "advertencia": "La clase 1 es una predicción del modelo y no una medición de campo confirmada.",
+  "imagen_generada": "/kaggle/working/OBAS_V2_RESULTADOS/ficha_visual_tolima.png"
+}

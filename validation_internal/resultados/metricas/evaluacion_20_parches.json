@@ -1,0 +1,10 @@
+{
+  "modelo": "/kaggle/input/datasets/santiagofallaamaya/obas-v2-respaldo-sesion/obas_v2_mobile/student_baseline_float16.tflite",
+  "parches_evaluados": 20,
+  "umbral": 0.5,
+  "preprocesamiento": "Valores almacenados conservados; CHW convertido a HWC",
+  "nota": "El parche CEMS con valores >1 se evaluó sin renormalización. La compatibilidad de su distribución con el entrenamiento debe verificarse.",
+  "metricas_csv": "/kaggle/working/OBAS_V2_RESULTADOS/metricas_20_parches_modelo_actual.csv",
+  "resumen_csv": "/kaggle/working/OBAS_V2_RESULTADOS/resumen_20_parches_por_estrato.csv",
+  "predicciones": "/kaggle/working/OBAS_V2_RESULTADOS/predicciones_20_parches"
+}

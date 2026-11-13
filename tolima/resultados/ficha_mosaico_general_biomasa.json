@@ -1,0 +1,26 @@
+{
+  "caso": "Mosaico general",
+  "fuente_mascara": "V2_EE_MODIS_MASK_CANDIDATO01_MOSAICO.tif",
+  "imagen_post": "V2_EE_POST_CANDIDATO01_MOSAICO.tif",
+  "crs": "EPSG:4326",
+  "dimensiones_mascara": {
+    "ancho": 38,
+    "alto": 26
+  },
+  "pixeles_totales": 988,
+  "pixeles_validos": 988,
+  "pixeles_nodata": 0,
+  "pixeles_clase_0": 320,
+  "pixeles_clase_1": 668,
+  "pixeles_otros": 0,
+  "porcentaje_clase_0": 32.388663967611336,
+  "porcentaje_clase_1": 67.61133603238866,
+  "superficie_valida_ha": 24424.608895309735,
+  "superficie_clase_0_ha": 7910.850044047297,
+  "superficie_clase_1_ha": 16513.7588512625,
+  "densidad_biomasa_referencia_t_ha": 80.0,
+  "biomasa_presente_referencia_t": 1321100.7081010002,
+  "metodo_biomasa": "Área clase 1 × densidad de referencia configurable",
+  "nota": "La máscara es MODIS y tiene menor resolución que la imagen POST. La biomasa es ilustrativa; la densidad no ha sido validada para esta zona.",
+  "ficha_png": "/kaggle/working/OBAS_V2_RESULTADOS/ficha_mosaico_general_biomasa.png"
+}

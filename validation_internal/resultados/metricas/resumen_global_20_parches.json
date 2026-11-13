@@ -1,0 +1,15 @@
+{
+  "cantidad_parches": 20,
+  "dice_global_agregado": 0.7660747651339945,
+  "iou_global_agregado": 0.6208437460290567,
+  "precision_global_agregada": 0.8410316731696121,
+  "recall_global_agregado": 0.7033855603810255,
+  "inferencia_mediana_ms": 31.156205000115733,
+  "TP_total": 29315,
+  "FP_total": 5541,
+  "FN_total": 12362,
+  "TN_total": 280462,
+  "criterio": "Umbral de probabilidad 0.5; muestra de 20 parches del split test",
+  "reemplazo_prueba_1": "OBAS_zone1 / patch_id 2179",
+  "nota": "El resultado corresponde a la muestra seleccionada; no representa por sí solo una validación exhaustiva del modelo."
+}

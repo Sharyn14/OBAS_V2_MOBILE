@@ -1,0 +1,32 @@
+{
+  "caso": "Tolima",
+  "modelo": "OBAS V2",
+  "archivo_mascara": "tolima_post_predicted_mask.tif",
+  "dimensiones": {
+    "ancho_px": 125,
+    "alto_px": 175
+  },
+  "crs": "EPSG:4326",
+  "clasificacion": {
+    "clase_1": {
+      "pixeles": 13380,
+      "superficie_ha": 530.627924,
+      "porcentaje_pixeles_validos": 79.288889
+    },
+    "clase_0": {
+      "pixeles": 3495,
+      "superficie_ha": 138.605398,
+      "porcentaje_pixeles_validos": 20.711111
+    },
+    "nodata": {
+      "pixeles": 5000
+    },
+    "superficie_valida_ha": 669.233354
+  },
+  "biomasa": {
+    "estimacion_toneladas": null,
+    "estado": "Pendiente de densidad de biomasa validada",
+    "nota": "La superficie clasificada no permite determinar por sí sola la biomasa presente o consumida."
+  },
+  "advertencia": "La clase 1 es una predicción del modelo y requiere validación para interpretarse como superficie realmente quemada."
+}

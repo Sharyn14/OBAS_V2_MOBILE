@@ -1,0 +1,18 @@
+{
+  "paquete": "OBAS_V2_RECURSOS_VISUALES_FLUTTER",
+  "archivos_incluidos": [
+    "tolima/imagenes/V2_EE_TOLIMA_PRE_CANDIDATO1.tif",
+    "tolima/imagenes/V2_EE_TOLIMA_POST_CANDIDATO1.tif",
+    "tolima/imagenes/V2_EE_TOLIMA_dNBR_CANDIDATO1.tif",
+    "tolima/imagenes/V2_EE_TOLIMA_MODIS_MASK_CANDIDATO1.tif",
+    "tolima/resultados/tolima_post_predicted_mask.tif",
+    "tolima/resultados/ficha_mosaico_general_biomasa.png",
+    "tolima/resultados/ficha_caso_tolima.json",
+    "tolima/resultados/ficha_mosaico_general_biomasa.json",
+    "tolima/resultados/ficha_visual_tolima.json",
+    "tolima/resultados/ficha_visual_tolima_biomasa.json",
+    "gradcam/PASO20_3_gradcam_patch1527.png",
+    "gradcam/PASO20_4_gradcam_metricas_patch1527.csv"
+  ],
+  "archivos_no_encontrados": []
+}

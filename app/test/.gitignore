@@ -1,0 +1,81 @@
+
+# Archivos temporales de Flutter y Dart
+.dart_tool/
+.packages
+.flutter-plugins
+.flutter-plugins-dependencies
+.pub-cache/
+.pub/
+build/
+
+# Archivos temporales de Android y Gradle
+.gradle/
+**/.gradle/
+**/build/
+local.properties
+**/local.properties
+*.jks
+*.keystore
+key.properties
+**/key.properties
+
+# Configuración local del editor
+.idea/
+.vscode/
+*.iml
+
+# Archivos temporales
+*.log
+*.tmp
+*.bak
+.DS_Store
+Thumbs.db
+
+# Entornos y secretos
+.env
+.env.*
+!.env.example
+
+# Paquetes generados
+*.apk
+*.aab
+*.zip
+
+
+@'
+# Flutter y Dart
+.dart_tool/
+.pub-cache/
+.pub/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+**/build/
+
+# Android y Gradle
+**/.gradle/
+**/local.properties
+**/key.properties
+*.jks
+*.keystore
+
+# Configuracion local
+.idea/
+.vscode/
+*.iml
+
+# Archivos temporales
+*.log
+*.tmp
+*.bak
+.DS_Store
+Thumbs.db
+
+# Secretos y archivos generados
+.env
+.env.*
+!.env.example
+*.apk
+*.aab
+*.zip
+'@ | Set-Content -Path .gitignore -Encoding utf8

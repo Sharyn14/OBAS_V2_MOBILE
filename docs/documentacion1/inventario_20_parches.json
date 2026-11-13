@@ -1,0 +1,162 @@
+[
+  {
+    "numero_prueba": 1,
+    "source": "OBAS_zone1",
+    "patch_id": 2179,
+    "imagen_npy": "datos/parches/prueba_01_OBAS_zone1_imagen.npy",
+    "mascara_real_npy": "datos/mascaras_reales/prueba_01_OBAS_zone1_mascara_real.npy",
+    "prediccion_npy": "resultados/mascaras_predichas/prueba_01_OBAS_zone1_prediccion.npy"
+  },
+  {
+    "numero_prueba": 2,
+    "source": "OBAS_zone1",
+    "patch_id": 2871,
+    "imagen_npy": "datos/parches/prueba_02_OBAS_zone1_imagen.npy",
+    "mascara_real_npy": "datos/mascaras_reales/prueba_02_OBAS_zone1_mascara_real.npy",
+    "prediccion_npy": "resultados/mascaras_predichas/prueba_02_OBAS_zone1_prediccion.npy"
+  },
+  {
+    "numero_prueba": 3,
+    "source": "OBAS_zone2",
+    "patch_id": 2591,
+    "imagen_npy": "datos/parches/prueba_03_OBAS_zone2_imagen.npy",
+    "mascara_real_npy": "datos/mascaras_reales/prueba_03_OBAS_zone2_mascara_real.npy",
+    "prediccion_npy": "resultados/mascaras_predichas/prueba_03_OBAS_zone2_prediccion.npy"
+  },
+  {
+    "numero_prueba": 4,
+    "source": "OBAS_zone3",
+    "patch_id": 3291,
+    "imagen_npy": "datos/parches/prueba_04_OBAS_zone3_imagen.npy",
+    "mascara_real_npy": "datos/mascaras_reales/prueba_04_OBAS_zone3_mascara_real.npy",
+    "prediccion_npy": "resultados/mascaras_predichas/prueba_04_OBAS_zone3_prediccion.npy"
+  },
+  {
+    "numero_prueba": 5,
+    "source": "OBAS_zone1",
+    "patch_id": 99,
+    "imagen_npy": "datos/parches/prueba_05_OBAS_zone1_imagen.npy",
+    "mascara_real_npy": "datos/mascaras_reales/prueba_05_OBAS_zone1_mascara_real.npy",
+    "prediccion_npy": "resultados/mascaras_predichas/prueba_05_OBAS_zone1_prediccion.npy"
+  },
+  {
+    "numero_prueba": 6,
+    "source": "OBAS_zone1",
+    "patch_id": 2762,
+    "imagen_npy": "datos/parches/prueba_06_OBAS_zone1_imagen.npy",
+    "mascara_real_npy": "datos/mascaras_reales/prueba_06_OBAS_zone1_mascara_real.npy",
+    "prediccion_npy": "resultados/mascaras_predichas/prueba_06_OBAS_zone1_prediccion.npy"
+  },
+  {
+    "numero_prueba": 7,
+    "source": "OBAS_zone3",
+    "patch_id": 11,
+    "imagen_npy": "datos/parches/prueba_07_OBAS_zone3_imagen.npy",
+    "mascara_real_npy": "datos/mascaras_reales/prueba_07_OBAS_zone3_mascara_real.npy",
+    "prediccion_npy": "resultados/mascaras_predichas/prueba_07_OBAS_zone3_prediccion.npy"
+  },
+  {
+    "numero_prueba": 8,
+    "source": "OBAS_zone3",
+    "patch_id": 3288,
+    "imagen_npy": "datos/parches/prueba_08_OBAS_zone3_imagen.npy",
+    "mascara_real_npy": "datos/mascaras_reales/prueba_08_OBAS_zone3_mascara_real.npy",
+    "prediccion_npy": "resultados/mascaras_predichas/prueba_08_OBAS_zone3_prediccion.npy"
+  },
+  {
+    "numero_prueba": 9,
+    "source": "OBAS_zone1",
+    "patch_id": 398,
+    "imagen_npy": "datos/parches/prueba_09_OBAS_zone1_imagen.npy",
+    "mascara_real_npy": "datos/mascaras_reales/prueba_09_OBAS_zone1_mascara_real.npy",
+    "prediccion_npy": "resultados/mascaras_predichas/prueba_09_OBAS_zone1_prediccion.npy"
+  },
+  {
+    "numero_prueba": 10,
+    "source": "OBAS_zone1",
+    "patch_id": 1864,
+    "imagen_npy": "datos/parches/prueba_10_OBAS_zone1_imagen.npy",
+    "mascara_real_npy": "datos/mascaras_reales/prueba_10_OBAS_zone1_mascara_real.npy",
+    "prediccion_npy": "resultados/mascaras_predichas/prueba_10_OBAS_zone1_prediccion.npy"
+  },
+  {
+    "numero_prueba": 11,
+    "source": "OBAS_zone1",
+    "patch_id": 2545,
+    "imagen_npy": "datos/parches/prueba_11_OBAS_zone1_imagen.npy",
+    "mascara_real_npy": "datos/mascaras_reales/prueba_11_OBAS_zone1_mascara_real.npy",
+    "prediccion_npy": "resultados/mascaras_predichas/prueba_11_OBAS_zone1_prediccion.npy"
+  },
+  {
+    "numero_prueba": 12,
+    "source": "OBAS_zone3",
+    "patch_id": 3255,
+    "imagen_npy": "datos/parches/prueba_12_OBAS_zone3_imagen.npy",
+    "mascara_real_npy": "datos/mascaras_reales/prueba_12_OBAS_zone3_mascara_real.npy",
+    "prediccion_npy": "resultados/mascaras_predichas/prueba_12_OBAS_zone3_prediccion.npy"
+  },
+  {
+    "numero_prueba": 13,
+    "source": "OBAS_zone1",
+    "patch_id": 1022,
+    "imagen_npy": "datos/parches/prueba_13_OBAS_zone1_imagen.npy",
+    "mascara_real_npy": "datos/mascaras_reales/prueba_13_OBAS_zone1_mascara_real.npy",
+    "prediccion_npy": "resultados/mascaras_predichas/prueba_13_OBAS_zone1_prediccion.npy"
+  },
+  {
+    "numero_prueba": 14,
+    "source": "OBAS_zone1",
+    "patch_id": 1895,
+    "imagen_npy": "datos/parches/prueba_14_OBAS_zone1_imagen.npy",
+    "mascara_real_npy": "datos/mascaras_reales/prueba_14_OBAS_zone1_mascara_real.npy",
+    "prediccion_npy": "resultados/mascaras_predichas/prueba_14_OBAS_zone1_prediccion.npy"
+  },
+  {
+    "numero_prueba": 15,
+    "source": "OBAS_zone1",
+    "patch_id": 2331,
+    "imagen_npy": "datos/parches/prueba_15_OBAS_zone1_imagen.npy",
+    "mascara_real_npy": "datos/mascaras_reales/prueba_15_OBAS_zone1_mascara_real.npy",
+    "prediccion_npy": "resultados/mascaras_predichas/prueba_15_OBAS_zone1_prediccion.npy"
+  },
+  {
+    "numero_prueba": 16,
+    "source": "OBAS_zone3",
+    "patch_id": 1139,
+    "imagen_npy": "datos/parches/prueba_16_OBAS_zone3_imagen.npy",
+    "mascara_real_npy": "datos/mascaras_reales/prueba_16_OBAS_zone3_mascara_real.npy",
+    "prediccion_npy": "resultados/mascaras_predichas/prueba_16_OBAS_zone3_prediccion.npy"
+  },
+  {
+    "numero_prueba": 17,
+    "source": "CEMS_AOI01_01",
+    "patch_id": 20,
+    "imagen_npy": "datos/parches/prueba_17_CEMS_AOI01_01_imagen.npy",
+    "mascara_real_npy": "datos/mascaras_reales/prueba_17_CEMS_AOI01_01_mascara_real.npy",
+    "prediccion_npy": "resultados/mascaras_predichas/prueba_17_CEMS_AOI01_01_prediccion.npy"
+  },
+  {
+    "numero_prueba": 18,
+    "source": "CEMS_AOI01_01",
+    "patch_id": 23,
+    "imagen_npy": "datos/parches/prueba_18_CEMS_AOI01_01_imagen.npy",
+    "mascara_real_npy": "datos/mascaras_reales/prueba_18_CEMS_AOI01_01_mascara_real.npy",
+    "prediccion_npy": "resultados/mascaras_predichas/prueba_18_CEMS_AOI01_01_prediccion.npy"
+  },
+  {
+    "numero_prueba": 19,
+    "source": "CEMS_AOI01_01",
+    "patch_id": 52,
+    "imagen_npy": "datos/parches/prueba_19_CEMS_AOI01_01_imagen.npy",
+    "mascara_real_npy": "datos/mascaras_reales/prueba_19_CEMS_AOI01_01_mascara_real.npy",
+    "prediccion_npy": "resultados/mascaras_predichas/prueba_19_CEMS_AOI01_01_prediccion.npy"
+  },
+  {
+    "numero_prueba": 20,
+    "source": "OBAS_zone1",
+    "patch_id": 2504,
+    "imagen_npy": "datos/parches/prueba_20_OBAS_zone1_imagen.npy",
+    "mascara_real_npy": "datos/mascaras_reales/prueba_20_OBAS_zone1_mascara_real.npy",
+    "prediccion_npy": "resultados/mascaras_predichas/prueba_20_OBAS_zone1_prediccion.npy"
+  }
+]

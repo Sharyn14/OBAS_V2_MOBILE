@@ -1,0 +1,12 @@
+{
+  "caso": "Tolima",
+  "modelo": "OBAS V2",
+  "superficie_valida_ha": 669.2334,
+  "area_clase_1_ha": 530.628,
+  "area_clase_0_ha": 138.6054,
+  "porcentaje_clase_1": 79.2889,
+  "densidad_biomasa_t_ha": 80.0,
+  "biomasa_presente_estimada_t": 42450.24,
+  "metodo_biomasa": "Área clase 1 multiplicada por densidad ilustrativa configurable",
+  "imagen": "/kaggle/working/OBAS_V2_RESULTADOS/ficha_visual_tolima_biomasa.png"
+}
