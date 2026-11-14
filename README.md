@@ -88,7 +88,24 @@ La aplicación se distribuye como un archivo APK para Android.
 
 La aplicación funciona localmente después de instalarse y no requiere conexión a internet para ejecutar el análisis de archivos compatibles.
 
-**Descarga del APK:** [AGREGAR AQUÍ EL ENLACE DE DESCARGA]
+**Descarga del APK:**
+Para instalar:
+
+Descargar el APK desde el enlace anterior.
+
+Abrir el archivo descargado en un teléfono Android.
+
+Autorizar la instalación si Android lo solicita.
+
+Instalar y abrir OBAS V2 Mobile.
+
+La aplicación permite realizar análisis locales sin conexión a internet utilizando archivos satelitales compatibles .npy o .bin.
+
+Versión: 1.0.0
+
+Tamaño del APK: aproximadamente 80,6 MB.
+https://github.com/Sharyn14/OBAS_V2_MOBILE/releases/download/v1.0.0/app-release.3.apk
+
 
 ## 8. Uso de la aplicación
 
